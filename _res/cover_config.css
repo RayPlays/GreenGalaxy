@@ -1,0 +1,36 @@
+:root { /* green galaxy theme */
+	--transparencycolor:			0,0,0;
+	--transparencyalpha:			0.15;
+	--messagetransparency:			0.5;
+	--guildchanneltransparency:		0.15;
+	--memberlisttransparency:		0.0;
+	--accentcolor:					0,255,0;
+	
+	--font:							Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+	--textshadow:					transparent;
+	--settingsicons:				1;
+	
+	--background:					url(https://i.imgur.com/lD0MASL.jpg);
+	--backgroundposition:			center;
+	--backgroundsize:				cover;
+	--backgroundblur:				unset;
+	
+	--popout:						var(--background);
+	--popoutposition:				var(--backgroundposition);
+	--popoutsize:					var(--backgroundsize);
+	--popoutblur:					var(--backgroundblur);
+	
+	--backdrop:						rgba(0,0,0,0.85);
+	--backdropposition:				var(--backgroundposition);
+	--backdropsize:					var(--backgroundsize);
+	--backdropblur:					var(--backgroundblur);
+	
+	--textbrightest: 				255,255,255;
+	--textbrighter: 				200,255,200;
+	--textbright: 					170,255,170;
+	--textdark: 					100,255,100;
+	--textdarker: 					70,200,70;
+	--textdarkest: 					40,120,40;
+	
+	--version0_0_3:					none;
+}
